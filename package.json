@@ -1,0 +1,22 @@
+{
+  "name": "jet-demo",
+  "version": "1.0.0",
+  "description": "jet demo",
+  "main": "server/index.js",
+  "scripts": {
+      "dev": "node server/index.js"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "kaivean@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-proxies": "^0.5.0",
+    "koa-router": "^7.2.1",
+    "koa-send": "^4.1.0",
+    "node-fetch": "^1.7.1",
+    "nodemon": "^1.11.0"
+  }
+}
