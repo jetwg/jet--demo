@@ -1,6 +1,9 @@
 # jet-demo
 The first demo for jet.
 
+## Dependencies
+1. node > 6
+2. php
 
 ## How to run
 1. Clone jet-loader jet-php jet-demo in the same directory.
