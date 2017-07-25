@@ -50,7 +50,7 @@
 <body>
 
     <div id="viewport">
-
+        请打开开发者工具查看效果
     </div>
 
     <script>
